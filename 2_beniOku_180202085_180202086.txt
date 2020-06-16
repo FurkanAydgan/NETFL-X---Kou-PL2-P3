@@ -1,0 +1,58 @@
+Netflix Programý
+
+	Bu 2_beniOku_180202085_180202086.txt dosyasý, Netflix Programý  Uygulamasýdosyalarý projesi koduna aittir. 
+Bu paket, kod ile ayný dizin içerisinde bulunacaktýr.
+
+1-PAKETÝN ÝÇERÝÐÝ:
+
+	2_180202085_180202086.txt(Uygulamanýzýn tüm kodlarýný içeren txt dosyasý) -- 2_180202085_180202086(orijinal proje dosyasý) --
+	2_180202085_180202086.pdf(Uygulama rapor dosyasý)  --  2_180202085_180202086.zip(Bütün dosyalarýn arþivlendiði zip dosyasý)--
+        Labb_3 JAR(Netflix Uygulamasýnýn jar dosyasýdýr)
+
+2-SÝSTEM GEREKSÝNÝMLERÝ:
+
+	java Complier olan herhangi bir bilgisayar olmasý ve SQlite-jdbc.jar kütüphanesinin olmasý yeterlidir.
+
+3-KURULUM:
+
+Bu kod, iki adet Windows kurulu makinede çalýþtýrýldý:
+
+    Furkan'nýn Windows 10 Education yüklü dizüstü bilgisayarýnda.
+    Berke'nin Windows 10 Pro yüklü dizüstü bilgisayarýnda.
+
+Bu iki durumda da kod, herhangi bir hata vermeden, daha önceden belirlenen kriterlere uygun çalýþtý.
+
+
+4- PROGRAMIN ÇALIÞTIRILMASI
+
+	"2_180202085_180202086" dosyasýný Netflix uygulamasý Labb_3 JAR adlý dosyanýn içerisindeki “RUN.jar” uzantýlý dosyanýn çalýþtýrmasýyla 
+sorunsuz bir þekilde baþlar. Diðer bir seçenek olarak  ÝDE üzerinden proje dosyasý olarak çalýþatýrýlmak istenirse 'sqlite-jdbc-3.30.1.jar' 
+jar dosyasý kütüphaneye eklenmelidir.'sqlite-jdbc-3.30.1.jar 'dosyasý, proje dosyasýnýn içinde bulunmaktadýr.
+
+5-KODU DERLEME:
+
+	Bilgisayarýmýzda kurulu olan Cderleyici ile kodu kolayca derleyebilirsiniz.(Netbeans tavsiye edilir)
+Derleme bittikten sonra kolayca programý çalýþtýrabilirsiniz.
+
+
+6- PARAMETRELER:
+	
+	Programýn çalýþmasý için baþlangýçta herhangi bir parametre gerekmez.
+
+
+7- PROGRAMIN KULLANIMI:
+
+	Netflix uygulamasý “RUN.jar” uzantýlý dosyanýn çalýþtýrmasýyla sorunsuz bir þekilde baþlar.
+ Eðer kayýtlý bir kullanýcý var ise filmlerin bulunduðu ana sayfa ekranýna bilgiler girilerek
+ giriþ yapýlýr. Eðer kayýtlý herhangi bir bilgi yok ise kayýt ol butonuna týklanarak kayýt
+ olma sayfasýndan iþlem gerçekleþtirilir.Kayýt olunduktan sonra da film ve dizilierin olduðu 
+sayfaya giriþ yapýlýr.
+
+
+
+
+
+
+
+
+

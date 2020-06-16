@@ -1,0 +1,1 @@
+java -jar "Labb_3.jar"
